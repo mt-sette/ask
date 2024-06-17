@@ -1,0 +1,13 @@
+{
+  "name": "ask",
+  "version": "1.0.0",
+  "description": "A simple command line tool to ask questions and get answers.",
+  "main": "ask.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mt-sette",
+  "license": "ISC"
+}
